@@ -1,0 +1,7 @@
+<svg width="240" height="80" viewBox="0 0 240 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="80" rx="24" fill="#FFF4F0"/>
+  <circle cx="42" cy="40" r="22" fill="#D98C8C"/>
+  <path d="M35 33c5-8 18-3 15 7-2 8-12 12-15 19-3-7-13-11-15-19-3-10 10-15 15-7z" fill="white"/>
+  <text x="78" y="38" font-family="Georgia, serif" font-size="27" font-weight="700" fill="#4E2F2F">Lehema</text>
+  <text x="80" y="58" font-family="Arial, sans-serif" font-size="11" letter-spacing="2" fill="#8C5E5E">PIJAMAS & COSTURA</text>
+</svg>
